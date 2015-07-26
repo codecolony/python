@@ -1,0 +1,1 @@
+c:\OpenCV2.1\bin\opencv_performance.exe -data HaarTraining\GT01 -info positive.txt -w 24 -h 24 -rs 30 > PerformanceGT01.txt

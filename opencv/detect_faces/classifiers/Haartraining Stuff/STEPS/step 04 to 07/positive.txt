@@ -1,0 +1,400 @@
+rawdata/ausfahrt-side-seq01-00000595-01-h200.bmp 1 244 53 78 211
+rawdata/ausfahrt-side-seq01-00000596-01-h200.bmp 1 233 52 71 208
+rawdata/ausfahrt-side-seq01-00000597-01-h200.bmp 1 227 48 66 211
+rawdata/ausfahrt-side-seq01-00000598-01-h200.bmp 1 216 51 74 207
+rawdata/ausfahrt-side-seq01-00000599-01-h200.bmp 1 193 55 97 203
+rawdata/ausfahrt-side-seq01-00000600-01-h200.bmp 1 170 53 127 207
+rawdata/ausfahrt-side-seq01-00000601-01-h200.bmp 1 161 56 137 211
+rawdata/ausfahrt-side-seq01-00000602-01-h200.bmp 1 166 57 129 213
+rawdata/ausfahrt-side-seq01-00000603-01-h200.bmp 1 165 58 127 219
+rawdata/ausfahrt-side-seq01-00000604-01-h200.bmp 1 167 57 110 209
+rawdata/ausfahrt-side-seq01-00000605-01-h200.bmp 1 153 56 116 213
+rawdata/ausfahrt-side-seq01-00000606-01-h200.bmp 1 153 55 100 211
+rawdata/ausfahrt-side-seq01-00000607-01-h200.bmp 1 145 54 89 213
+rawdata/ausfahrt-side-seq01-00000608-01-h200.bmp 1 138 51 78 217
+rawdata/ausfahrt-side-seq01-00000609-01-h200.bmp 1 132 49 65 211
+rawdata/ausfahrt-side-seq01-00000610-01-h200.bmp 1 120 51 79 204
+rawdata/ausfahrt-side-seq01-00000611-01-h200.bmp 1 116 52 83 214
+rawdata/ausfahrt-side-seq01-00000612-01-h200.bmp 1 96 53 103 211
+rawdata/ausfahrt-side-seq01-00000613-01-h200.bmp 1 75 56 126 210
+rawdata/ausfahrt-side-seq01-00000614-01-h200.bmp 1 65 57 136 211
+rawdata/ausfahrt-side-seq01-00000615-01-h200.bmp 1 56 53 143 217
+rawdata/ausfahrt-side-seq01-00000616-01-h200.bmp 1 68 58 124 208
+rawdata/ausfahrt-side-seq01-00000617-01-h200.bmp 1 66 57 113 210
+rawdata/ausfahrt-side-seq01-00000618-01-h200.bmp 1 63 57 103 207
+rawdata/ausfahrt-side-seq01-00000619-01-h200.bmp 1 57 56 93 204
+rawdata/ausfahrt-side-seq01-00000620-01-h200.bmp 1 45 52 88 205
+rawdata/ausfahrt-side-seq01-00000621-01-h200.bmp 1 43 50 78 207
+rawdata/ausfahrt-side-seq02-00000762-01-h200.bmp 1 229 55 93 208
+rawdata/ausfahrt-side-seq02-00000763-01-h200.bmp 1 219 54 88 209
+rawdata/ausfahrt-side-seq02-00000764-01-h200.bmp 1 214 55 72 203
+rawdata/ausfahrt-side-seq02-00000765-01-h200.bmp 1 205 51 60 205
+rawdata/ausfahrt-side-seq02-00000766-01-h200.bmp 1 195 52 64 205
+rawdata/ausfahrt-side-seq02-00000767-01-h200.bmp 1 191 51 72 210
+rawdata/ausfahrt-side-seq02-00000768-01-h200.bmp 1 174 55 91 213
+rawdata/ausfahrt-side-seq02-00000769-01-h200.bmp 1 153 53 117 214
+rawdata/ausfahrt-side-seq02-00000770-01-h200.bmp 1 139 61 130 207
+rawdata/ausfahrt-side-seq02-00000771-01-h200.bmp 1 143 62 126 207
+rawdata/ausfahrt-side-seq02-00000772-01-h200.bmp 1 137 61 129 210
+rawdata/ausfahrt-side-seq02-00000773-01-h200.bmp 1 132 63 126 211
+rawdata/ausfahrt-side-seq02-00000774-01-h200.bmp 1 144 61 104 214
+rawdata/ausfahrt-side-seq02-00000775-01-h200.bmp 1 130 59 91 211
+rawdata/ausfahrt-side-seq02-00000776-01-h200.bmp 1 125 55 79 215
+rawdata/ausfahrt-side-seq02-00000777-01-h200.bmp 1 122 55 67 206
+rawdata/ausfahrt-side-seq02-00000778-01-h200.bmp 1 111 54 76 210
+rawdata/ausfahrt-side-seq02-00000779-01-h200.bmp 1 102 58 85 206
+rawdata/ausfahrt-side-seq02-00000780-01-h200.bmp 1 75 61 104 205
+rawdata/ausfahrt-side-seq02-00000781-01-h200.bmp 1 65 65 117 206
+rawdata/ausfahrt-side-seq02-00000782-01-h200.bmp 1 49 69 134 204
+rawdata/ausfahrt-side-seq02-00000783-01-h200.bmp 1 47 65 134 206
+rawdata/ausfahrt-side-seq02-00000784-01-h200.bmp 1 40 65 142 208
+rawdata/ausfahrt-side-seq02-00000785-01-h200.bmp 1 39 61 130 208
+rawdata/ausfahrt-side-seq02-00000786-01-h200.bmp 1 41 64 119 205
+rawdata/ausfahrt-side-seq02-00000787-01-h200.bmp 1 31 59 116 206
+rawdata/ausfahrt-side-seq02-00000788-01-h200.bmp 1 27 58 97 208
+rawdata/ausfahrt-side-seq03-00001018-01-h200.bmp 1 208 56 88 200
+rawdata/ausfahrt-side-seq03-00001019-01-h200.bmp 1 201 56 79 202
+rawdata/ausfahrt-side-seq03-00001020-01-h200.bmp 1 195 54 74 200
+rawdata/ausfahrt-side-seq03-00001021-01-h200.bmp 1 185 54 88 206
+rawdata/ausfahrt-side-seq03-00001022-01-h200.bmp 1 175 54 95 206
+rawdata/ausfahrt-side-seq03-00001023-01-h200.bmp 1 171 56 97 206
+rawdata/ausfahrt-side-seq03-00001024-01-h200.bmp 1 150 55 119 207
+rawdata/ausfahrt-side-seq03-00001025-01-h200.bmp 1 144 58 121 205
+rawdata/ausfahrt-side-seq03-00001026-01-h200.bmp 1 143 57 119 210
+rawdata/ausfahrt-side-seq03-00001027-01-h200.bmp 1 129 54 117 210
+rawdata/ausfahrt-side-seq03-00001028-01-h200.bmp 1 129 59 103 204
+rawdata/ausfahrt-side-seq03-00001029-01-h200.bmp 1 121 56 95 201
+rawdata/ausfahrt-side-seq03-00001030-01-h200.bmp 1 121 50 83 210
+rawdata/ausfahrt-side-seq03-00001031-01-h200.bmp 1 113 48 71 207
+rawdata/ausfahrt-side-seq03-00001032-01-h200.bmp 1 111 50 70 205
+rawdata/ausfahrt-side-seq03-00001033-01-h200.bmp 1 103 53 80 205
+rawdata/ausfahrt-side-seq03-00001034-01-h200.bmp 1 99 57 84 208
+rawdata/ausfahrt-side-seq03-00001035-01-h200.bmp 1 63 58 117 199
+rawdata/ausfahrt-side-seq03-00001036-01-h200.bmp 1 67 55 111 205
+rawdata/ausfahrt-side-seq03-00001037-01-h200.bmp 1 49 55 131 206
+rawdata/ausfahrt-side-seq03-00001038-01-h200.bmp 1 45 57 132 200
+rawdata/ausfahrt-side-seq03-00001039-01-h200.bmp 1 50 58 119 205
+rawdata/ausfahrt-side-seq03-00001040-01-h200.bmp 1 52 60 101 205
+rawdata/ausfahrt-side-seq03-00001041-01-h200.bmp 1 47 52 101 208
+rawdata/ausfahrt-side-seq03-00001042-01-h200.bmp 1 37 47 90 208
+rawdata/ausfahrt-side-seq03-00001043-01-h200.bmp 1 30 45 82 210
+rawdata/ausfahrt-side-seq04-00001158-01-h200-flipped.bmp 1 245 68 95 211
+rawdata/ausfahrt-side-seq04-00001159-01-h200-flipped.bmp 1 238 68 88 208
+rawdata/ausfahrt-side-seq04-00001160-01-h200-flipped.bmp 1 238 65 68 206
+rawdata/ausfahrt-side-seq04-00001161-01-h200-flipped.bmp 1 227 65 63 200
+rawdata/ausfahrt-side-seq04-00001162-01-h200-flipped.bmp 1 216 60 60 203
+rawdata/ausfahrt-side-seq04-00001163-01-h200-flipped.bmp 1 210 59 62 206
+rawdata/ausfahrt-side-seq04-00001164-01-h200-flipped.bmp 1 194 63 80 203
+rawdata/ausfahrt-side-seq04-00001165-01-h200-flipped.bmp 1 182 64 93 207
+rawdata/ausfahrt-side-seq04-00001166-01-h200-flipped.bmp 1 157 67 120 205
+rawdata/ausfahrt-side-seq04-00001167-01-h200-flipped.bmp 1 154 65 121 213
+rawdata/ausfahrt-side-seq04-00001168-01-h200-flipped.bmp 1 154 62 120 216
+rawdata/ausfahrt-side-seq04-00001169-01-h200-flipped.bmp 1 144 63 125 213
+rawdata/ausfahrt-side-seq04-00001170-01-h200-flipped.bmp 1 147 65 111 214
+rawdata/ausfahrt-side-seq04-00001171-01-h200-flipped.bmp 1 138 61 107 209
+rawdata/ausfahrt-side-seq04-00001172-01-h200-flipped.bmp 1 144 59 82 214
+rawdata/ausfahrt-side-seq04-00001173-01-h200-flipped.bmp 1 139 56 71 212
+rawdata/ausfahrt-side-seq04-00001174-01-h200-flipped.bmp 1 133 58 72 205
+rawdata/ausfahrt-side-seq04-00001175-01-h200-flipped.bmp 1 127 57 74 211
+rawdata/ausfahrt-side-seq04-00001176-01-h200-flipped.bmp 1 99 62 96 206
+rawdata/ausfahrt-side-seq04-00001177-01-h200-flipped.bmp 1 76 65 127 206
+rawdata/ausfahrt-side-seq04-00001178-01-h200-flipped.bmp 1 61 61 138 212
+rawdata/ausfahrt-side-seq04-00001179-01-h200-flipped.bmp 1 72 63 123 204
+rawdata/ausfahrt-side-seq04-00001180-01-h200-flipped.bmp 1 67 68 124 205
+rawdata/ausfahrt-side-seq04-00001181-01-h200-flipped.bmp 1 65 66 117 205
+rawdata/ausfahrt-side-seq04-00001182-01-h200-flipped.bmp 1 62 61 109 206
+rawdata/ausfahrt-side-seq04-00001183-01-h200-flipped.bmp 1 73 61 79 206
+rawdata/ausfahrt-side-seq04-00001184-01-h200-flipped.bmp 1 65 57 77 205
+rawdata/ausfahrt-side-seq05-00001383-01-h200.bmp 1 182 49 115 206
+rawdata/ausfahrt-side-seq05-00001384-01-h200.bmp 1 176 46 113 210
+rawdata/ausfahrt-side-seq05-00001385-01-h200.bmp 1 177 40 108 218
+rawdata/ausfahrt-side-seq05-00001386-01-h200.bmp 1 168 44 109 211
+rawdata/ausfahrt-side-seq05-00001387-01-h200.bmp 1 162 41 106 215
+rawdata/ausfahrt-side-seq05-00001388-01-h200.bmp 1 157 40 98 220
+rawdata/ausfahrt-side-seq05-00001389-01-h200.bmp 1 160 38 87 216
+rawdata/ausfahrt-side-seq05-00001390-01-h200.bmp 1 149 46 89 216
+rawdata/ausfahrt-side-seq05-00001391-01-h200.bmp 1 147 47 97 218
+rawdata/ausfahrt-side-seq05-00001392-01-h200.bmp 1 136 51 104 213
+rawdata/ausfahrt-side-seq05-00001393-01-h200.bmp 1 134 52 113 212
+rawdata/ausfahrt-side-seq05-00001394-01-h200.bmp 1 120 55 118 208
+rawdata/ausfahrt-side-seq05-00001395-01-h200.bmp 1 114 53 127 210
+rawdata/ausfahrt-side-seq05-00001396-01-h200.bmp 1 112 55 143 211
+rawdata/ausfahrt-side-seq05-00001397-01-h200.bmp 1 107 55 129 210
+rawdata/ausfahrt-side-seq05-00001398-01-h200.bmp 1 110 56 132 206
+rawdata/ausfahrt-side-seq05-00001399-01-h200.bmp 1 108 58 118 211
+rawdata/ausfahrt-side-seq05-00001400-01-h200.bmp 1 105 54 105 209
+rawdata/ausfahrt-side-seq05-00001401-01-h200.bmp 1 97 51 102 210
+rawdata/ausfahrt-side-seq05-00001402-01-h200.bmp 1 87 51 103 205
+rawdata/ausfahrt-side-seq05-00001403-01-h200.bmp 1 87 52 81 205
+rawdata/ausfahrt-side-seq05-00001404-01-h200.bmp 1 83 50 82 207
+rawdata/ausfahrt-side-seq05-00001405-01-h200.bmp 1 77 53 84 206
+rawdata/ausfahrt-side-seq05-00001406-01-h200.bmp 1 66 55 102 206
+rawdata/ausfahrt-side-seq05-00001407-01-h200.bmp 1 55 59 109 198
+rawdata/ausfahrt-side-seq05-00001408-01-h200.bmp 1 51 57 115 202
+rawdata/ausfahrt-side-seq05-00001409-01-h200.bmp 1 40 63 131 206
+rawdata/carree-side-seq01-sideview_0063-01-h200.bmp 1 212 63 87 211
+rawdata/carree-side-seq01-sideview_0064-01-h200.bmp 1 205 63 88 208
+rawdata/carree-side-seq01-sideview_0065-01-h200.bmp 1 200 62 79 212
+rawdata/carree-side-seq01-sideview_0066-01-h200.bmp 1 194 61 80 207
+rawdata/carree-side-seq01-sideview_0067-01-h200.bmp 1 193 61 76 206
+rawdata/carree-side-seq01-sideview_0068-01-h200.bmp 1 193 63 71 206
+rawdata/carree-side-seq01-sideview_0069-01-h200.bmp 1 187 57 72 208
+rawdata/carree-side-seq01-sideview_0070-01-h200.bmp 1 185 63 66 204
+rawdata/carree-side-seq01-sideview_0071-01-h200.bmp 1 182 62 66 205
+rawdata/carree-side-seq01-sideview_0072-01-h200.bmp 1 180 63 70 204
+rawdata/carree-side-seq01-sideview_0073-01-h200.bmp 1 170 60 88 209
+rawdata/carree-side-seq01-sideview_0074-01-h200.bmp 1 166 65 85 210
+rawdata/carree-side-seq01-sideview_0075-01-h200.bmp 1 165 67 88 204
+rawdata/carree-side-seq01-sideview_0076-01-h200.bmp 2 164 65 92 205 320 48 86 266
+rawdata/carree-side-seq01-sideview_0077-01-h200.bmp 2 165 65 94 207 306 48 94 263
+rawdata/carree-side-seq01-sideview_0078-01-h200.bmp 2 163 64 88 209 298 44 86 275
+rawdata/carree-side-seq01-sideview_0078-02-h200.bmp 2 124 46 68 164 230 34 65 207
+rawdata/carree-side-seq01-sideview_0079-01-h200.bmp 2 160 63 85 208 286 45 93 274
+rawdata/carree-side-seq01-sideview_0079-02-h200.bmp 2 121 49 69 162 217 35 72 206
+rawdata/carree-side-seq01-sideview_0080-01-h200.bmp 2 155 65 98 208 281 48 91 265
+rawdata/carree-side-seq01-sideview_0080-02-h200.bmp 2 115 52 72 163 209 35 78 208
+rawdata/carree-side-seq01-sideview_0081-01-h200.bmp 2 113 52 72 156 194 34 96 210
+rawdata/carree-side-seq01-sideview_0081-02-h200.bmp 2 155 63 86 206 247 54 127 258
+rawdata/carree-side-seq01-sideview_0082-01-h200.bmp 2 151 61 81 208 235 49 138 264
+rawdata/carree-side-seq01-sideview_0082-02-h200.bmp 2 116 48 79 160 173 36 126 211
+rawdata/carree-side-seq01-sideview_0083-01-h200.bmp 2 145 60 85 209 228 55 143 263
+rawdata/carree-side-seq01-sideview_0083-02-h200.bmp 2 116 48 61 159 174 40 122 207
+rawdata/carree-side-seq01-sideview_0084-01-h200.bmp 2 145 62 79 206 218 58 151 255
+rawdata/carree-side-seq01-sideview_0084-02-h200.bmp 2 118 48 52 165 172 41 118 205
+rawdata/carree-side-seq01-sideview_0085-01-h200.bmp 2 113 50 55 165 172 38 113 208
+rawdata/carree-side-seq01-sideview_0085-02-h200.bmp 2 141 60 64 206 221 53 139 256
+rawdata/carree-side-seq01-sideview_0086-01-h200.bmp 2 111 48 52 168 168 40 107 205
+rawdata/carree-side-seq01-sideview_0086-02-h200.bmp 2 141 61 66 205 214 53 135 266
+rawdata/carree-side-seq01-sideview_0087-01-h200.bmp 2 109 43 55 173 170 35 98 215
+rawdata/carree-side-seq01-sideview_0087-02-h200.bmp 2 143 60 61 211 207 49 131 262
+rawdata/carree-side-seq01-sideview_0088-01-h200.bmp 2 105 45 52 165 164 38 82 206
+rawdata/carree-side-seq01-sideview_0088-02-h200.bmp 2 140 62 64 213 213 46 115 265
+rawdata/carree-side-seq01-sideview_0089-01-h200.bmp 2 99 47 56 162 163 35 67 202
+rawdata/carree-side-seq01-sideview_0089-02-h200.bmp 2 138 61 62 212 204 46 102 270
+rawdata/carree-side-seq01-sideview_0090-01-h200.bmp 2 86 45 66 158 143 35 66 205
+rawdata/carree-side-seq01-sideview_0090-02-h200.bmp 2 116 70 85 209 193 47 89 266
+rawdata/carree-side-seq02-sideview_0189-01-h200.bmp 2 268 57 64 212 17 61 58 152
+rawdata/carree-side-seq02-sideview_0189-02-h200-flipped.bmp 2 470 90 84 208 94 81 103 299
+rawdata/carree-side-seq02-sideview_0190-01-h200.bmp 2 255 55 59 212 15 60 65 154
+rawdata/carree-side-seq02-sideview_0190-02-h200-flipped.bmp 2 470 90 79 212 102 79 100 295
+rawdata/carree-side-seq02-sideview_0191-01-h200.bmp 2 250 54 62 212 17 61 62 150
+rawdata/carree-side-seq02-sideview_0191-02-h200-flipped.bmp 2 462 87 83 212 112 79 101 294
+rawdata/carree-side-seq02-sideview_0192-01-h200.bmp 2 236 56 77 209 20 57 67 162
+rawdata/carree-side-seq02-sideview_0192-02-h200-flipped.bmp 2 459 82 81 218 126 79 115 297
+rawdata/carree-side-seq02-sideview_0193-01-h200.bmp 2 234 54 88 226 19 59 79 163
+rawdata/carree-side-seq02-sideview_0193-02-h200-flipped.bmp 2 466 81 64 215 130 83 134 291
+rawdata/carree-side-seq02-sideview_0194-01-h200.bmp 2 211 62 119 209 31 60 44 157
+rawdata/carree-side-seq02-sideview_0194-02-h200-flipped.bmp 2 463 88 61 207 128 87 152 281
+rawdata/carree-side-seq02-sideview_0195-01-h200.bmp 2 215 61 116 210 34 65 43 156
+rawdata/carree-side-seq02-sideview_0195-02-h200-flipped.bmp 2 463 86 56 206 121 86 167 273
+rawdata/carree-side-seq02-sideview_0196-01-h200.bmp 2 209 63 118 202 35 65 46 151
+rawdata/IFWN-sequence-035.avi-00089-R200.bmp 1 297 53 81 215
+rawdata/IFWN-sequence-035.avi-00096-R200.bmp 1 216 58 122 216
+rawdata/IFWN-sequence-035.avi-00099-R200.bmp 1 209 62 109 214
+rawdata/IFWN-sequence-035.avi-00102-R200.bmp 1 193 52 72 211
+rawdata/IFWN-sequence-035.avi-00109-R200.bmp 1 117 60 137 220
+rawdata/IFWN-sequence-036.avi-00112-R200.bmp 1 236 51 70 206
+rawdata/IFWN-sequence-036.avi-00117-R200.bmp 1 163 53 127 210
+rawdata/IFWN-sequence-036.avi-00120-R200.bmp 1 160 59 126 208
+rawdata/IFWN-sequence-036.avi-00125-R200.bmp 1 128 54 74 201
+rawdata/IFWN-sequence-036.avi-00130-R200.bmp 1 82 59 120 212
+rawdata/IFWN-sequence-036.avi-00138-R200.bmp 1 55 60 60 207
+rawdata/IFWN-sequence-037.avi-00080-R200.bmp 1 240 45 117 203
+rawdata/IFWN-sequence-037.avi-00086-R200.bmp 1 237 38 79 207
+rawdata/IFWN-sequence-037.avi-00088-R200.bmp 1 213 36 64 204
+rawdata/IFWN-sequence-037.avi-00091-R200.bmp 1 183 35 77 207
+rawdata/IFWN-sequence-037.avi-00097-R200.bmp 1 130 36 116 209
+rawdata/IFWN-sequence-037.avi-00100-R200.bmp 1 132 32 77 206
+rawdata/IFWN-sequence-037.avi-00105-R200.bmp 1 79 31 92 209
+rawdata/IFWN-sequence-038.avi-00068-R200.bmp 1 237 36 120 212
+rawdata/IFWN-sequence-038.avi-00074-R200.bmp 1 206 28 75 205
+rawdata/IFWN-sequence-038.avi-00081-R200.bmp 1 143 34 123 214
+rawdata/IFWN-sequence-038.avi-00085-R200.bmp 1 138 26 106 209
+rawdata/IFWN-sequence-038.avi-00088-R200.bmp 1 131 28 76 205
+rawdata/IFWN-sequence-038.avi-00091-R200.bmp 1 100 28 82 204
+rawdata/IFWN-sequence-040.avi-00063-R200.bmp 1 233 42 117 203
+rawdata/IFWN-sequence-040.avi-00071-R200.bmp 1 203 29 75 210
+rawdata/IFWN-sequence-040.avi-00074-R200.bmp 1 177 33 87 211
+rawdata/IFWN-sequence-040.avi-00080-R200.bmp 1 133 34 122 208
+rawdata/IFWN-sequence-040.avi-00089-R200.bmp 1 82 27 97 205
+rawdata/IFWN-sequence-041.avi-00044-R200.bmp 1 252 46 103 207
+rawdata/IFWN-sequence-041.avi-00048-R200.bmp 1 217 40 88 213
+rawdata/IFWN-sequence-041.avi-00052-R200.bmp 1 166 38 138 220
+rawdata/IFWN-sequence-041.avi-00056-R200.bmp 1 162 41 109 213
+rawdata/IFWN-sequence-041.avi-00060-R200.bmp 1 144 39 67 202
+rawdata/IFWN-sequence-041.avi-00077-R200.bmp 1 15 45 124 206
+rawdata/IFWN-sequence-043.avi-00065-R200.bmp 1 281 53 119 215
+rawdata/IFWN-sequence-043.avi-00075-R200.bmp 1 211 50 109 208
+rawdata/IFWN-sequence-043.avi-00080-R200.bmp 1 199 50 112 214
+rawdata/IFWN-sequence-043.avi-00084-R200.bmp 1 181 45 70 207
+rawdata/IFWN-sequence-043.avi-00089-R200.bmp 1 114 45 123 208
+rawdata/IFWN-sequence-043.avi-00110-R200.bmp 1 21 40 63 207
+rawdata/IFWN-sequence-045.avi-00098-R200.bmp 1 263 53 142 226
+rawdata/IFWN-sequence-045.avi-00103-R200.bmp 1 235 48 70 212
+rawdata/IFWN-sequence-045.avi-00108-R200.bmp 1 159 49 133 217
+rawdata/IFWN-sequence-045.avi-00118-R200.bmp 1 114 42 78 206
+rawdata/IFWN-sequence-045.avi-00131-R200.bmp 1 20 42 87 208
+rawdata/IFWN-sequence-046.avi-00112-R200.bmp 1 261 50 71 212
+rawdata/IFWN-sequence-046.avi-00116-R200.bmp 1 203 52 146 216
+rawdata/IFWN-sequence-046.avi-00123-R200.bmp 1 177 47 70 208
+rawdata/IFWN-sequence-046.avi-00126-R200.bmp 1 145 51 99 202
+rawdata/IFWN-sequence-046.avi-00133-R200.bmp 1 110 53 102 210
+rawdata/IFWN-sequence-046.avi-00139-R200.bmp 1 62 51 100 204
+rawdata/IFWN-sequence-047.avi-00033-R200.bmp 1 237 39 107 215
+rawdata/IFWN-sequence-047.avi-00037-R200.bmp 1 204 32 66 204
+rawdata/IFWN-sequence-047.avi-00040-R200.bmp 1 167 37 112 202
+rawdata/IFWN-sequence-047.avi-00044-R200.bmp 1 135 41 138 204
+rawdata/IFWN-sequence-047.avi-00049-R200.bmp 1 126 30 77 207
+rawdata/IFWN-sequence-047.avi-00059-R200.bmp 1 28 36 137 209
+rawdata/IFWN-sequence-047.avi-00066-R200.bmp 1 6 27 69 202
+rawdata/IFWN-sequence-048.avi-00053-R200.bmp 1 280 45 94 213
+rawdata/IFWN-sequence-048.avi-00058-R200.bmp 1 249 46 72 208
+rawdata/IFWN-sequence-048.avi-00065-R200.bmp 1 200 44 107 216
+rawdata/IFWN-sequence-048.avi-00073-R200.bmp 1 137 42 99 206
+rawdata/IFWN-sequence-048.avi-00082-R200.bmp 1 107 41 80 211
+rawdata/IFWN-sequence-048.avi-00095-R200.bmp 1 32 42 88 210
+rawdata/IFWN-sequence-049.avi-00024-R200.bmp 1 268 52 81 208
+rawdata/IFWN-sequence-049.avi-00027-R200.bmp 1 247 47 50 213
+rawdata/IFWN-sequence-049.avi-00030-R200.bmp 1 213 59 89 205
+rawdata/IFWN-sequence-049.avi-00039-R200.bmp 1 168 52 59 207
+rawdata/IFWN-sequence-049.avi-00044-R200.bmp 1 112 54 118 215
+rawdata/IFWN-sequence-049.avi-00058-R200.bmp 1 22 52 112 214
+rawdata/IFWN-sequence-049.avi-00062-R200.bmp 1 14 47 69 206
+rawdata/IFWN-sequence-050.avi-00068-R200.bmp 1 259 67 110 205
+rawdata/IFWN-sequence-050.avi-00073-R200.bmp 1 232 56 91 212
+rawdata/IFWN-sequence-050.avi-00079-R200.bmp 1 182 53 97 214
+rawdata/IFWN-sequence-050.avi-00086-R200.bmp 1 151 55 101 217
+rawdata/IFWN-sequence-050.avi-00090-R200.bmp 1 119 50 77 208
+rawdata/IFWN-sequence-051.avi-00032-R200.bmp 1 307 50 68 213
+rawdata/IFWN-sequence-051.avi-00035-R200.bmp 1 251 53 127 208
+rawdata/IFWN-sequence-051.avi-00040-R200.bmp 1 244 55 109 198
+rawdata/IFWN-sequence-051.avi-00043-R200.bmp 1 233 44 76 210
+rawdata/IFWN-sequence-051.avi-00050-R200.bmp 1 153 43 139 212
+rawdata/IFWN-sequence-051.avi-00056-R200.bmp 1 147 41 80 205
+rawdata/IFWN-sequence-051.avi-00058-R200.bmp 1 135 35 68 207
+rawdata/IFWN-sequence-051.avi-00071-R200.bmp 1 52 32 67 207
+rawdata/IFWN-sequence-051.avi-00074-R200.bmp 1 23 38 85 212
+rawdata/IFWN-sequence-053.avi-00030-R200.bmp 1 327 54 67 211
+rawdata/IFWN-sequence-053.avi-00039-R200.bmp 1 246 59 121 210
+rawdata/IFWN-sequence-053.avi-00045-R200.bmp 1 206 49 74 205
+rawdata/IFWN-sequence-053.avi-00050-R200.bmp 1 151 52 130 206
+rawdata/IFWN-sequence-053.avi-00055-R200.bmp 1 141 46 84 207
+rawdata/IFWN-sequence-053.avi-00059-R200.bmp 1 103 44 81 205
+rawdata/IFWN-sequence-053.avi-00070-R200.bmp 1 36 40 60 209
+rawdata/IFWN-sequence-054.avi-00038-R200.bmp 1 327 79 88 213
+rawdata/IFWN-sequence-054.avi-00044-R200.bmp 1 258 59 84 204
+rawdata/IFWN-sequence-054.avi-00046-R200.bmp 1 215 57 122 214
+rawdata/IFWN-sequence-054.avi-00056-R200.bmp 1 172 53 80 212
+rawdata/IFWN-sequence-054.avi-00058-R200.bmp 1 144 50 85 207
+rawdata/IFWN-sequence-054.avi-00072-R200.bmp 1 51 50 92 208
+rawdata/IFWN-sequence-056.avi-00022-R200.bmp 1 310 58 66 213
+rawdata/IFWN-sequence-056.avi-00029-R200.bmp 1 247 68 128 209
+rawdata/IFWN-sequence-056.avi-00040-R200.bmp 1 160 64 127 211
+rawdata/IFWN-sequence-058.avi-00115-R200.bmp 1 377 99 55 209
+rawdata/IFWN-sequence-058.avi-00119-R200.bmp 1 301 102 136 207
+rawdata/IFWN-sequence-058.avi-00125-R200.bmp 1 300 97 96 214
+rawdata/IFWN-sequence-058.avi-00131-R200.bmp 1 229 93 122 212
+rawdata/IFWN-sequence-058.avi-00140-R200.bmp 1 194 90 71 212
+rawdata/IFWN-sequence-058.avi-00162-R200.bmp 1 50 98 121 211
+rawdata/IFWN-sequence-058.avi-00169-R200.bmp 1 18 89 80 207
+rawdata/IFWN-sequence-059.avi-00103-R200.bmp 1 185 109 117 207
+rawdata/IFWN-sequence-059.avi-00106-R200.bmp 1 179 100 90 214
+rawdata/IFWN-sequence-059.avi-00110-R200.bmp 1 152 98 67 213
+rawdata/IFWN-sequence-059.avi-00115-R200.bmp 1 78 103 143 214
+rawdata/IFWN-sequence-059.avi-00119-R200.bmp 1 77 97 104 213
+rawdata/IFWN-sequence-059.avi-00121-R200.bmp 1 66 97 91 210
+rawdata/IFWN-sequence-060.avi-00103-R200.bmp 1 123 67 120 216
+rawdata/IFWN-sequence-060.avi-00107-R200.bmp 1 118 68 68 210
+rawdata/IFWN-sequence-060.avi-00114-R200.bmp 1 55 73 121 212
+rawdata/IFWN-sequence-060.avi-00123-R200.bmp 1 15 74 85 206
+rawdata/IFWN-sequence-061.avi-00065-R200.bmp 1 371 104 75 207
+rawdata/IFWN-sequence-061.avi-00068-R200.bmp 1 337 99 69 209
+rawdata/IFWN-sequence-061.avi-00074-R200.bmp 1 289 104 108 208
+rawdata/IFWN-sequence-061.avi-00087-R200.bmp 1 215 102 118 215
+rawdata/IFWN-sequence-061.avi-00092-R200.bmp 1 193 93 78 206
+rawdata/IFWN-sequence-061.avi-00110-R200.bmp 1 51 96 121 202
+rawdata/IFWN-sequence-061.avi-00115-R200.bmp 1 46 89 82 208
+rawdata/IFWN-sequence-062.avi-00023-R200.bmp 1 332 88 94 212
+rawdata/IFWN-sequence-062.avi-00027-R200.bmp 1 313 89 70 207
+rawdata/IFWN-sequence-062.avi-00031-R200.bmp 1 260 92 123 210
+rawdata/IFWN-sequence-062.avi-00057-R200.bmp 1 111 92 104 201
+rawdata/IFWN-sequence-064.avi-00146-R200.bmp 1 184 43 77 204
+rawdata/IFWN-sequence-064.avi-00152-R200.bmp 1 118 38 121 217
+rawdata/IFWN-sequence-064.avi-00159-R200.bmp 1 78 38 109 214
+rawdata/IFWN-sequence-064.avi-00161-R200.bmp 1 85 40 64 204
+rawdata/IFWN-sequence-064.avi-00163-R200.bmp 1 63 39 80 206
+rawdata/IFWN-sequence-064.avi-00167-R200.bmp 1 12 43 136 213
+rawdata/IFWN-sequence-066.avi-00031-R200.bmp 1 235 35 70 211
+rawdata/IFWN-sequence-066.avi-00033-R200.bmp 1 210 35 98 209
+rawdata/IFWN-sequence-066.avi-00038-R200.bmp 1 175 42 129 214
+rawdata/IFWN-sequence-066.avi-00048-R200.bmp 1 83 44 141 211
+rawdata/IFWN-sequence-066.avi-00052-R200.bmp 1 86 42 102 208
+rawdata/IFWN-sequence-066.avi-00056-R200.bmp 1 53 41 89 208
+rawdata/IFWN-sequence-068.avi-00051-R200.bmp 1 240 39 62 211
+rawdata/IFWN-sequence-068.avi-00056-R200.bmp 1 174 43 128 213
+rawdata/IFWN-sequence-068.avi-00060-R200.bmp 1 166 48 96 205
+rawdata/IFWN-sequence-068.avi-00066-R200.bmp 1 118 39 93 207
+rawdata/IFWN-sequence-068.avi-00072-R200.bmp 1 63 41 127 212
+rawdata/IFWN-sequence-068.avi-00075-R200.bmp 1 61 37 73 204
+rawdata/IFWN-sequence-070.avi-00058-R200.bmp 1 193 51 70 214
+rawdata/IFWN-sequence-070.avi-00066-R200.bmp 1 114 55 112 206
+rawdata/IFWN-sequence-070.avi-00070-R200.bmp 1 106 53 85 206
+rawdata/IFWN-sequence-070.avi-00073-R200.bmp 1 87 48 72 206
+rawdata/IFWN-sequence-070.avi-00077-R200.bmp 1 47 54 102 204
+rawdata/IFWN-sequence-071.avi-00050-R200.bmp 1 373 87 61 211
+rawdata/IFWN-sequence-071.avi-00053-R200.bmp 1 335 91 109 215
+rawdata/IFWN-sequence-071.avi-00060-R200.bmp 1 302 95 98 211
+rawdata/IFWN-sequence-071.avi-00070-R200.bmp 1 212 89 133 216
+rawdata/IFWN-sequence-071.avi-00073-R200.bmp 1 200 85 97 215
+rawdata/IFWN-sequence-071.avi-00086-R200.bmp 1 100 88 112 207
+rawdata/IFWN-sequence-071.avi-00091-R200.bmp 1 69 79 89 212
+rawdata/IFWN-sequence-071.avi-00093-R200.bmp 1 33 87 123 208
+rawdata/IFWN-sequence-072.avi-00066-R200.bmp 1 308 94 129 212
+rawdata/IFWN-sequence-072.avi-00070-R200.bmp 1 292 88 107 220
+rawdata/IFWN-sequence-072.avi-00073-R200.bmp 1 285 83 83 204
+rawdata/IFWN-sequence-072.avi-00075-R200.bmp 1 257 84 91 211
+rawdata/IFWN-sequence-072.avi-00080-R200.bmp 1 221 84 126 215
+rawdata/IFWN-sequence-073.avi-00071-R200.bmp 1 272 66 58 207
+rawdata/IFWN-sequence-073.avi-00076-R200.bmp 1 197 67 138 215
+rawdata/IFWN-sequence-073.avi-00090-R200.bmp 1 103 63 137 215
+rawdata/IFWN-sequence-073.avi-00099-R200.bmp 1 75 56 73 209
+rawdata/IFWN-sequence-073.avi-00110-R200.bmp 1 23 60 79 205
+rawdata/IFWN-sequence-075.avi-00073-R200.bmp 1 349 108 93 214
+rawdata/IFWN-sequence-075.avi-00075-R200.bmp 1 334 102 71 207
+rawdata/IFWN-sequence-075.avi-00082-R200.bmp 1 270 109 126 218
+rawdata/IFWN-sequence-075.avi-00094-R200.bmp 1 188 107 128 207
+rawdata/IFWN-sequence-075.avi-00104-R200.bmp 1 141 101 78 206
+rawdata/IFWN-sequence-075.avi-00108-R200.bmp 1 103 103 120 212
+rawdata/IFWN-sequence-075.avi-00124-R200.bmp 1 12 107 127 203
+rawdata/IFWN-sequence-076.avi-00065-R200.bmp 1 361 87 79 224
+rawdata/IFWN-sequence-076.avi-00099-R200.bmp 1 114 94 129 207
+rawdata/IFWN-sequence-076.avi-00108-R200.bmp 1 84 87 83 205
+rawdata/IFWN-sequence-076.avi-00109-R200.bmp 1 72 87 89 214
+rawdata/IFWN-sequence-076.avi-00113-R200.bmp 1 34 92 126 206
+rawdata/IFWN-sequence-076.avi-00116-R200.bmp 1 31 87 104 208
+rawdata/IFWN-sequence-077.avi-00055-R200.bmp 1 346 87 84 211
+rawdata/IFWN-sequence-077.avi-00061-R200.bmp 1 279 82 114 212
+rawdata/IFWN-sequence-077.avi-00067-R200.bmp 1 261 82 97 211
+rawdata/IFWN-sequence-077.avi-00071-R200.bmp 1 233 74 80 207
+rawdata/IFWN-sequence-077.avi-00072-R200.bmp 1 231 75 79 212
+rawdata/IFWN-sequence-077.avi-00077-R200.bmp 1 195 82 116 208
+rawdata/IFWN-sequence-077.avi-00086-R200.bmp 1 144 71 92 213
+rawdata/IFWN-sequence-077.avi-00089-R200.bmp 1 111 80 120 211
+rawdata/IFWN-sequence-077.avi-00107-R200.bmp 1 23 75 112 212
+rawdata/IFWN-sequence-078.avi-00045-R200.bmp 1 331 92 109 210
+rawdata/IFWN-sequence-078.avi-00049-R200.bmp 1 317 86 70 211
+rawdata/IFWN-sequence-078.avi-00067-R200.bmp 1 206 82 81 212
+rawdata/IFWN-sequence-078.avi-00070-R200.bmp 1 163 80 131 216
+rawdata/IFWN-sequence-078.avi-00075-R200.bmp 1 156 79 100 207
+rawdata/IFWN-sequence-078.avi-00081-R200.bmp 1 123 75 84 210
+rawdata/IFWN-sequence-078.avi-00089-R200.bmp 1 65 77 128 210
+rawdata/IFWN-sequence-078.avi-00094-R200.bmp 1 61 74 69 210
+rawdata/IFWN-sequence-079.avi-00050-R200.bmp 1 319 85 112 208
+rawdata/IFWN-sequence-079.avi-00053-R200.bmp 1 309 78 77 211
+rawdata/IFWN-sequence-079.avi-00059-R200.bmp 1 234 83 128 201
+rawdata/IFWN-sequence-079.avi-00067-R200.bmp 1 218 75 73 207
+rawdata/IFWN-sequence-079.avi-00069-R200.bmp 1 193 77 88 211
+rawdata/IFWN-sequence-079.avi-00073-R200.bmp 1 149 83 137 209
+rawdata/IFWN-sequence-079.avi-00078-R200.bmp 1 149 81 98 209
+rawdata/IFWN-sequence-079.avi-00095-R200.bmp 1 37 84 100 209
+rawdata/IFWN-sequence-079.avi-00099-R200.bmp 1 9 83 128 217

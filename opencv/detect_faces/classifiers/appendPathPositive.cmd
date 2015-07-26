@@ -1,0 +1,1 @@
+for /F "delims=" %%j in (positive.txt) do echo.C:\Ragha\github\python\opencv\detect_faces\classifiers\cars2\positive\%%j >> positiveNew.txt

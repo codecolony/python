@@ -1,0 +1,1 @@
+for /F "delims=" %%j in (info.txt) do echo.C:\Ragha\github\python\opencv\detect_faces\classifiers\Haartraining Stuff\STEPS\step 02\%%j >> positiveNew2.txt

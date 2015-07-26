@@ -1,0 +1,1 @@
+C:\Python27\opencv\build\x86\vc11\bin\opencv_createsamples.exe -vec samples.vec -w 40 -h 40 pause

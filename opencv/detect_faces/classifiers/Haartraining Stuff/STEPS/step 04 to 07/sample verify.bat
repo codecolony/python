@@ -1,0 +1,1 @@
+c:\OpenCV2.1\bin\opencv_createsamples.exe -vec G01_442_2424.vec PAUSE

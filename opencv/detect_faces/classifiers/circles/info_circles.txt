@@ -1,0 +1,12 @@
+rawdata/circle1.bmp 1 0 2 99 95
+rawdata/circle10.bmp 1 2 3 95 95
+rawdata/circle11.bmp 1 10 12 75 76
+rawdata/circle12.bmp 1 1 2 98 97
+rawdata/circle2.bmp 1 9 13 73 74
+rawdata/circle3.bmp 1 3 4 95 93
+rawdata/circle4.bmp 1 4 3 92 92
+rawdata/circle5.bmp 1 5 7 92 85
+rawdata/circle6.bmp 1 4 3 93 92
+rawdata/circle7.bmp 1 3 2 93 97
+rawdata/circle8.bmp 1 0 2 100 97
+rawdata/circle9.bmp 1 5 4 91 93

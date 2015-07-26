@@ -1,0 +1,1 @@
+c:\OpenCV2.1\bin\opencv_haartraining.exe -data GT01 -vec G01_442_2424_N.vec -bg FileData.txt -npos 442 -nneg 1000 -nstages 17 -nsplits 2 -nonsym -minhitrate 0.998 -maxfalsealarm 0.5 -mem 1024 -mode ALL -w 24 -h 24 PAUSE

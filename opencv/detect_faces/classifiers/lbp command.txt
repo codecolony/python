@@ -1,0 +1,1 @@
+opencv_traincascaded.exe -data CassCade -vec Positive\ResistorP1.vec -bg Negative\NegSamples.txt -numPos 150 -numNeg 150 -numStage 30 -featureType LBP -precalcValBufSize 1024 -precalcIdxBufSize 1024

@@ -1,0 +1,12 @@
+opencv/detect_faces/image conversion/*
+opencv/detect_faces/classifiers/video/*
+opencv/detect_faces/classifiers/compressed/*
+opencv/detect_faces/classifiers/cars/positive/*
+opencv/detect_faces/classifiers/cars/negative/*
+opencv/detect_faces/classifiers/cars/test/*
+opencv/detect_faces/classifiers/cars2/positive/*
+opencv/detect_faces/classifiers/cars2/negative/*
+opencv/detect_faces/classifiers/cars2/test/*
+opencv/detect_faces/classifiers/circles/positive/*
+opencv/detect_faces/classifiers/circles/negative/*
+opencv/detect_faces/classifiers/Haartraining Stuff/STEPS/step 02/rawdata/*

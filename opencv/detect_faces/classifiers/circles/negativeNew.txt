@@ -1,0 +1,17 @@
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/3vzu7nt9t_thisOne.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/5piece.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/956d8d95.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/circle_moi_rouge.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/circle_untitled.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/Dark-Circle-Concealer-No.2-Beige.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/f024_untitled.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/Jupiter.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/linked_in.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/nativity.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/rhombus.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/S603.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/S702.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/thumb_35272.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/tumblr_inline_ndyn4whPtH1shu5oc.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/vyuguiguig.bmp 
+C:/Ragha/github/python/opencv/detect_faces/classifiers/circles/negative/youtube-logo-sq.bmp 

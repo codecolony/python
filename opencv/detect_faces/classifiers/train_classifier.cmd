@@ -1,0 +1,2 @@
+C:\Python27\opencv\build\x86\vc11\bin\opencv_traincascade.exe -data classifier -vec samples.vec -bg negativeNew.txt -numStages 25 -minHitRate 0.999 -maxFalseAlarmRate 0.5 -numPos 50 -numNeg 50 -w 40 -h 40 -mode ALL -precalcValBufSize 64 -precalcldxBufSize 64 
+pause
